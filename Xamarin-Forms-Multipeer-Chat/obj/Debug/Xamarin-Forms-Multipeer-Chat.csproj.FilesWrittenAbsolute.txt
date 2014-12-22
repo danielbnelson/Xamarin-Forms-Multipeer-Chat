@@ -1,0 +1,7 @@
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/bin/Debug/Xamarin-Forms-Multipeer-Chat.dll.mdb
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/bin/Debug/Xamarin-Forms-Multipeer-Chat.dll
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/obj/Debug/Xamarin-Forms-Multipeer-Chat.dll
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/obj/Debug/Xamarin-Forms-Multipeer-Chat.dll.mdb
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/bin/Debug/Xamarin.Forms.Core.dll
+/Users/daniel/Documents/Repos/Samples/Xamarin-Forms-Multipeer-Chat/Xamarin-Forms-Multipeer-Chat/bin/Debug/Xamarin.Forms.Xaml.dll
