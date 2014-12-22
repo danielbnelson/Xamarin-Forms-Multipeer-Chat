@@ -51,6 +51,6 @@ Global
 		{C1C9DCFD-CC07-4501-B182-5322FB26EF95}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Xamarin-Forms-Multipeer-Chat\Xamarin-Forms-Multipeer-Chat.csproj
+		StartupItem = iOS\Xamarin-Forms-Multipeer-Chat.iOS.csproj
 	EndGlobalSection
 EndGlobal

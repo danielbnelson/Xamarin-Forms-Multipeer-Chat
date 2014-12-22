@@ -7,13 +7,11 @@ namespace XamarinFormsMultipeerChat
 	{
 		public static Page GetMainPage ()
 		{	
-			return new ContentPage { 
-				Content = new Label {
-					Text = "Hello, Forms!",
-					VerticalOptions = LayoutOptions.CenterAndExpand,
-					HorizontalOptions = LayoutOptions.CenterAndExpand,
-				},
-			};
+
+			var mainNav = new NavigationPage (new MultipeerChat ()); 
+
+			return mainNav;
+
 		}
 	}
 }
